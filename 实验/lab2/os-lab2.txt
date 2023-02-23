@@ -1,0 +1,2 @@
+如何查找要填写那些东西呢？
+find . -name "*.[chS]" -exec grep -Hn LAB2 {} \;
